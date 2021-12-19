@@ -1,6 +1,6 @@
 - 👋 Hello, My name's Alejandro.
 - 👀 I’m an IT engineer, I have experience as Sysadmin and I am interested in working in new projects and to improve my skills is one of my goals nowadays.   
-- 🌱 I’m currently learning javascript, nodejs, express, mongodb and reactjs
+- 🌱 I’m focus on javascript, nodejs, express, mongodb, reactjs and aws
 - 💞️ I’m looking to collaborate on new projects and getting involved in new jobs
 - 📫 How to reach me ... usher.cuba@gmail.com is my email !
 
